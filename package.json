@@ -1,0 +1,25 @@
+{
+  "name": "lab-02-classes-inheritance-functional-programming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose --coverage",
+    "lint": "eslint '**/*.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginapult-401-advanced-javascript/lab-02-classes-inheritance-functional-programming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginapult-401-advanced-javascript/lab-02-classes-inheritance-functional-programming/issues"
+  },
+  "homepage": "https://github.com/ginapult-401-advanced-javascript/lab-02-classes-inheritance-functional-programming#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0"
+  }
+}
